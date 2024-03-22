@@ -1,2 +1,5 @@
 # environnement
 .env_hack
+
+# python
+*/__pycache__
